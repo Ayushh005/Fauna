@@ -1,4 +1,3 @@
-Absolutely! Here's the **restructured Markdown file** with improved formatting, refined section order, and the GitHub repository link updated to [`https://github.com/Ayushh005/Fauna`](https://github.com/Ayushh005/Fauna):
 
 ---
 
@@ -82,4 +81,3 @@ We welcome contributions to make Fauna even better! Follow these steps:
 
 ---
 
-Let me know if you'd like me to update the image links as well or help restructure the project layout inside the repo. I'm game for it.
